@@ -96,3 +96,27 @@ git commit -m "Texto com a descrição do que foi implementado
 git push origin main
 ```
 
+## Citações
+```
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+```
+
+>Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas
+|Tecnologia|Finalidade|
+|---|---|
+|Git|Controle de versionamento|
+|Github|Hospedagem e colaboração|
+|Markdown|Documentação|
+
+| Alinhamento à esquerda | Alinhamento ao centro | Alinhamento à direita|
+| :--- | :---: | ---: |
+| texto | texto | texto |
+
+## Imagens
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+
+![Nine Sols](https://store-images.s-microsoft.com/image/apps.13249.14000456863863255.e1180b2d-029d-4c02-9385-6ad73421ad63.bfc47847-79a5-41e2-8992-cfc17c878b89)
